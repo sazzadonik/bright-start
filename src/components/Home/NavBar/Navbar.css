@@ -1,0 +1,13 @@
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end !important;
+}
+
+
+/* .nav-link:hover {
+    background-color: red;
+    margin-right: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    transition: 2000s;
+} */

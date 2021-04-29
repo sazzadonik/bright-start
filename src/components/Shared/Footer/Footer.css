@@ -1,0 +1,29 @@
+.FooterBg{
+    background-color: rgb(118, 150, 151);
+}
+
+.subscribe{
+    margin: auto;
+}
+
+.SocialIcon{
+    display: block;
+}
+.SocialIcon ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+.SocialIcon ul li svg{
+    font-size: 30px;
+}
+
+.SocialIcon ul li a:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.SocialIcon ul li a{
+    color: black;
+}

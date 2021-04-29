@@ -1,0 +1,8 @@
+.itemStatus p, small, h5{
+    color: white;
+}
+
+.itemStatus .itemDiv {
+    border-radius: 10px !important;
+    margin: 100px 50px 0px;
+}

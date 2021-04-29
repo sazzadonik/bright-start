@@ -1,0 +1,13 @@
+.OurTeacher{
+    min-height: 100vh;
+    background-color: rgb(241, 239, 239);
+    padding: 50px;
+}
+
+.OurTeacher h1{
+    padding-top: 50px;
+    font-size: 50px;
+    line-height: 50px;
+    font-family: 'Chelsea Market', sans-serif;
+    color: #7DD0F8;
+}

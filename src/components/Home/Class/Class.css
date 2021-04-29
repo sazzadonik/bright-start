@@ -1,0 +1,26 @@
+.box2 {
+    background: #2b3f53;
+    transition: all 1s;
+  }
+
+  .MuiCardMedia-root:hover  {
+    transform: scale(1.2);
+  }
+
+  .priceDiv{
+    /* width: 80px; */
+    height: 50px;
+    background-color: #B6DD6B;
+    border-bottom: 3px solid #FCDD64 ;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: auto;
+    z-index: 999999999;
+    color: white;
+    padding: 4px;
+  }
+
+  /* .backgroundImageCorrect{
+    height: 100% !important;
+  } */

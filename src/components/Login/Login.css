@@ -1,0 +1,15 @@
+.loginPage{
+    height: 75vh;
+}
+
+.buttonGoogle{
+    border-radius: 10px;
+}
+
+.item-container{
+    background-color: #C0E2C6;
+    height: 300px;
+    width:60%;
+    margin:  auto !important;
+    border-radius: 20px;
+}

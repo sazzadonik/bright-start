@@ -1,0 +1,27 @@
+.OurClasses{
+    min-height: 100vh;
+    background-color: #1a6375;
+    padding: 50px;
+}
+
+.OurClasses h1{
+    padding-top: 50px;
+    font-size: 50px;
+    line-height: 50px;
+    font-family: 'Chelsea Market', sans-serif;
+    color: #fff;
+}
+
+@media only screen and (max-width: 650px) {
+    .OurClasses{
+        min-height: 100vh;
+        background-color: #1a6375;
+        padding: 0px;
+    }}
+
+
+
+@media only screen and (max-width: 550px) {
+    .makeStyles-root-1{
+        padding: 0px !important;
+    }}
